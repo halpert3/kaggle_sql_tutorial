@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kaggle-sql-tutorial-320600",
+  "private_key_id": "39a2b46bda1aac272bf61307f188dffddf09c579",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCn4zmHhgT0RBjb\nEE0hvNXbQqVrY2w4lf0oXaChPVlkC5WhHdDQFAqB4HYK92gI9aNvAXVqW12j01uO\nM4Lg7eemZoId3wt77ki+8dG9u/wkpADhGUNQ1oXRtWQzzZiBTmiTWRwi94T+AT5t\nW/jJtTMhC9WdFXlO8cPRMATzfGbGQ3EEFkeEJ04giJBvo2/LfakGMitGNysEQ/wc\nUv0EjsbioBhAJVPJLufTvatcvMjn9B1GmPjFrn8VRKUpz+t+9PH2T4FymEMmvkSn\nL1RlaLs186Bg2ZLVNZrd9FLLv0jh6Ds2fyTvu3F+MiksIgiRywyvFw3qg+mbpaxH\nKirAVol5AgMBAAECggEAJ96OvW/mwklfq7pJzu7EzJ6doQyJ2UBJT+o4KMJkdZ1I\nqevmOFviCOjQr5cEdkg7STPL+fd7m9moHvN9q8PjpMEoOkbLN+GlFe9gc1HutZba\n/JnewhZHzj7o7mJvSpnfvMpHI8irJRUPibHzOZeV7k2cq4K7fbNtYMKqElajI4bi\n4zG/R+Ra0wsjEpZTpDIVzF0JPRfc8PfE3oRwBS9PvvnLaiAhN5ODi9lUD3m8ND8d\ny6Ld9j4FhS3nKA2DtoMyuhoE9XSHfqPrNqlFVnqPrJ7qMFVSnVfSqjd86mnHVPCr\nv0vmSbu1PgTZoFgypREPuBriY82J5thKz8AuRD02twKBgQDdlqV2PM+YVtNyUN+n\nxIQ5vBELj3tpYMH76NYyItAf7bObq882oH4+8cYhoIrJC+fcbTYMGKkP+ecqyzGg\nKyB5eaYyHCm0SQD72CEH237BY/Dk+8WdbnPqC6dTkZfpYCHKnH4Ejq4qIEppQ+S+\n3Bn2NKkVioWUqZhqc/EHIKH99wKBgQDB9azY+42Ew50mYcltgFAgv2dGrcJLUUTU\nocVwEPjKmK/RN77lHVx/aNDYBrHtNP06CQTxaUs2psk0Ge8Nnpt/GkcC4EXEGYgw\ntchZyLmjgsRztQbh+QL5w0W3WyN4f0h7A6CpVENWhUYY5EUZ6/o48Z+pdYSRDzId\nvntBLOKYDwKBgQCcbyzy0y2Pk8SFENlEfHUIuV+jNLFgjKGGMTN+g5tA3zQMc3e/\nTgCyeUdyF//CvXf74tHkKki4camkSX0IYUn02E/fUoiSsXNTWJrBDFFpQCAh2CkD\n4qVMltuTINcJOAfDHUXN+9iy/sbpl7fWklZ1vWmdPoTdlfl3NdD0QjJ6swKBgFCS\nFXMtS+RSvf0rsdji7GYuHGCn3YYcBFOvv6yF4FOIicCHP609PSdQCzEx1seKs4Zg\nKMV/z9asAfi6rSsjL8TkzYrMTy7ezEwvt0JUt4jM0X6fPHSyVCIck+FO4rUzapBv\nOVYdwrs2MaA1ct8Jv6/X71MdliwL++2PKvQwCRDRAoGBAMy9ulqUbJkaKw8zudNr\njr4rbqMAfRjYBQEAdWGO11iBeL1Gzu9OI/RSmbuOhR9yvJpPKLWTmUABSzY2HZlr\nnBt4GQ2wEhmD5i51b3s+ajZT8AES0o8IfYIs2wmezAMUmheMgjUEXiaGBjFwAMKu\nGvTm9BaMyeQgtCPP0NBVsU+O\n-----END PRIVATE KEY-----\n",
+  "client_email": "kaggle@kaggle-sql-tutorial-320600.iam.gserviceaccount.com",
+  "client_id": "101638804947645363175",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kaggle%40kaggle-sql-tutorial-320600.iam.gserviceaccount.com"
+}
